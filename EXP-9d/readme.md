@@ -5,4 +5,4 @@
 ![program image](priority_program.png)
 
 # program output
-![program output](program_output.png)
+![program output](priority_output.png)
